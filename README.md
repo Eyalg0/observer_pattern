@@ -1,2 +1,3 @@
-# observer_pattern
-observer pattern implementation 
+# observer pattern
+observer pattern implementation in java
+using PropertyChangeSupport
